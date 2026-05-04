@@ -2,3 +2,12 @@
 __pycache__/
 .env
 models
+*.json
+*.json.gz
+*.json.gz.1
+index.html
+index.html.1
+notebooks/*.tsv
+notebooks/*.jsonl
+notebooks/*.zip
+drug-reviews
