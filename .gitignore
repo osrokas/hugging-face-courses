@@ -11,3 +11,5 @@ notebooks/*.tsv
 notebooks/*.jsonl
 notebooks/*.zip
 drug-reviews
+embeddings_dataset
+embeddings_dataset.csv
