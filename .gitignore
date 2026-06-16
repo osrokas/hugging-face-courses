@@ -13,3 +13,4 @@ notebooks/*.zip
 drug-reviews
 embeddings_dataset
 embeddings_dataset.csv
+wikitext-2.txt
